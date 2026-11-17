@@ -1,0 +1,1 @@
+import subprocess; subprocess.run(["git", "switch", "-c", "accelerate-with-copilot"], check=True); subprocess.run(["git", "push", "-u", "origin", "accelerate-with-copilot"], check=True)
